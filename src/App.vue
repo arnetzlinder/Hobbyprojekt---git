@@ -1,11 +1,10 @@
 <script setup lang="ts">
-import HelloWorld from './components/HelloWorld.vue'
-console.log("för rebase");
+import SongNavbar from './components/SongNavbar.vue';
 </script>
 
 <template>
   <div>
-
+    <SongNavbar />
   </div>
   
   <RouterLink to="./">Home</RouterLink>

@@ -1,5 +1,9 @@
-
+<script lang="ts">
+import AudioPlay from "../components/AudioPlay.vue"
+</script>
 
 <template>
-    <div>Home</div>
+    <div>
+        <AudioPlay />
+    </div>
 </template>

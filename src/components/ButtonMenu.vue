@@ -1,5 +1,5 @@
 <template>
-    <nav id="navbar" class="drop-shadow-2xl text-2xl pt-10 bg-gradient-to-r from-green-200 via-yellow-100 to-blue-400">
+    <nav id="navbar" class="z-30 relative drop-shadow-2xl text-2xl pt-10 bg-gradient-to-r from-green-200 via-yellow-100 to-blue-400">
         <ul>
         <li><a href="#" target="_blank"><p>Lyssna på mig</p></a></li>
         <li><a href="#" target="_blank"><p>Om mig</p></a></li>

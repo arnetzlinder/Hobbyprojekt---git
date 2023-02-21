@@ -4,10 +4,10 @@ import AudioPlay from './components/AudioPlay.vue'
 </script>
 
 <template>
-  <div class="from-green-200 via-yellow-100 to-blue-400 text-gray-800">
+  <div class="bg-gradient-to-r from-green-200 via-yellow-100 to-blue-400 text-gray-800">
 
   </div>
-  <div class="from-green-200 via-yellow-100 to-blue-400 text-gray-800">
+  <div class="bg-gradient-to-r from-green-200 via-yellow-100 to-blue-400 text-gray-800">
   <AudioPlay />
   </div>
 </template>

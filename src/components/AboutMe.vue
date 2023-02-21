@@ -17,7 +17,7 @@
         <p class="max-w-2xl">2013 spelade jag in en skiva med min dåvarande kör Ascalpella, medicinska föreningens kammarkör. Jag sjöng solot på låten nedan på litauiska, lyssna gärna!</p>
             <br>
     </div>
-    <div>
+    <div class="pl-10 pr-10">
         <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1HarcPWV5J9xCpNppJhT3V?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
     </div>
 </div>

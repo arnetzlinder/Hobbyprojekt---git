@@ -1,6 +1,6 @@
 <template>
-    <nav id="navbarid" class="grid w-screen lg:w-3/5 bg-gradient-to-r from-red-400 via-orange-100 to-yellow-100">
-        <a href="#index"><p class="ml-5 first-letter:text-2xl first-letter:font-bold">Sussie Arnetz Linder <br> Front End-utvecklare</p></a>
+    <nav id="navbarid" class="grid w-screen lg:w-3/5 bg-gradient-to-r from-green-200 via-yellow-100 to-blue-400">
+        <a href="#index"><p class="ml-5 first-letter:text-2xl first-letter:font-bold text-gray-800">Sångtjänster för dop, bröllop eller begravning</p></a>
         <div class="col-start-3 mt-5 ml-5">
         <MenuButton @click="toggle" :isOpen="showMenu" />
         </div>

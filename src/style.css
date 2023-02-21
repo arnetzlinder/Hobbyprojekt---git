@@ -2,6 +2,11 @@
 @tailwind components;
 @tailwind utilities;
 
+@layer base {
+  html {
+    font-family: 'Shantell Sans', cursive;
+  }
+}
 
 /* :root {
   font-family: Inter, Avenir, Helvetica, Arial, sans-serif;

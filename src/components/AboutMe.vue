@@ -10,7 +10,7 @@
         <ul>
             <li>Brett register</li>
             <li> Stort urval av låtar</li>
-            <li>Kan både sjunga acapella eller ta hjälp av kyrkomusiker på plats</li>
+            <li>Kan både sjunga acapella eller ta hjälp av kyrkomusiker</li>
         </ul>
 
         <h2 class="font-bold mt-10 mb-2">Kuriosa</h2>

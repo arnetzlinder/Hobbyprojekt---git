@@ -6,10 +6,13 @@ import SongNavbar from './components/SongNavbar.vue';
   <div>
     <SongNavbar />
   </div>
+
+  <div class="pt-20 z-20 relative">
   
   <RouterLink to="./">Home</RouterLink>
   <RouterLink to="./about">About</RouterLink>
   <router-view></router-view>
+</div>
 </template>
 
 <style scoped>

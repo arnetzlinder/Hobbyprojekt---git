@@ -1,7 +1,7 @@
 <template>
-    <div class="h-screen bg-gradient-to-r from-green-200 via-yellow-100 to-blue-400">
+    <div class="font-serif h-screen bg-gradient-to-r from-green-200 via-yellow-100 to-blue-400">
     <div class="p-10 text-2xl">
-        <h1 class="text-3xl p-5"> Om mig</h1>
+        <h1 class="font-bold text-3xl pb-5"> Om mig</h1>
         <p class="max-w-2xl">Jag är en sångerska med gedigen erfarenhet av att sjunga, jag har sjungit i kör sedan fyra års ålder, gått i musikklass och på sång i den kommunala musikskolan. Utöver det har jag även tagit lektioner privat genom åren.</p> 
         <br>
         <p class="max-w-2xl">Numera sjunger jag förstasopran i en vokalensamble som heter Ars Longa även om jag för tillfället har uppehåll då jag har en liten hemma. Yrkesmässigt är jag utbildad distriktssköterska som bestämt mig för att sadla om 
@@ -13,7 +13,7 @@
             <li>Kan både sjunga acapella eller ta hjälp av kyrkomusiker på plats</li>
         </ul>
 
-        <h2 class="mt-10 mb-2">Kuriosa</h2>
+        <h2 class="font-bold mt-10 mb-2">Kuriosa</h2>
         <p class="max-w-2xl">2013 spelade jag in en skiva med min dåvarande kör Ascalpella, medicinska föreningens kammarkör. Jag sjöng solot på låten nedan på litauiska, lyssna gärna!</p>
             <br>
     </div>

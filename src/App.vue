@@ -1,25 +1,15 @@
 <script setup lang="ts">
-import SongNavbar from './components/SongNavbar.vue';
+import HelloWorld from './components/HelloWorld.vue'
+import AboutMe from './components/AboutMe.vue';
 </script>
 
 <template>
   <div>
-    <SongNavbar />
+    <AboutMe />
   </div>
-
-  <div class="pt-20 z-20 relative">
-  
-  </div>
-  <div>
-    
-  </div>
-
-  <div class="pt-20 pb-10 relative">
-  
-  <router-view></router-view>
-</div>
 </template>
 
 <style scoped>
+
 
 </style>

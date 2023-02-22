@@ -8,7 +8,7 @@ import AboutMe from './components/AboutMe.vue';
     <AboutMe />
   </div>
 
-  <div  id="background" class="h-screen pt-20 pb-10 relative bg-cover">
+  <div  id="background" class="h-screen pt-10 relative bg-cover">
   
 
   <router-view></router-view>

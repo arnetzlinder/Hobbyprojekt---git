@@ -12,7 +12,7 @@ export default {
 </script>
 
 <template>
-    <div class="flex flex-row">
+    <div class="flex flex-row flex-wrap">
         <AudioPlay />
         <PictureElement />
         <VideoPlay />

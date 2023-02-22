@@ -1,6 +1,6 @@
 <template>
     <nav id="navbarid" class="h-20 grid w-screen bg-gradient-to-r from-green-200 via-yellow-100 to-blue-400">
-        <a href="#index"><p class="ml-5 first-letter:text-2xl first-letter:font-bold text-gray-800">Sångtjänster för dop, bröllop eller begravning</p></a>
+        <a href="#index"><p class="ml-5 first-letter:text-3xl first-letter:font-bold text-2xl text-gray-800">Sång för dop, bröllop eller begravning</p></a>
         <div class="z-30 relative col-start-3 mt-5 ml-5">
         <MenuButton @click="toggle" :isOpen="showMenu" />
         </div>

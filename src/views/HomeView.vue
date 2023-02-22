@@ -3,13 +3,13 @@ import AudioPlay from "../components/AudioPlay.vue"
 export default {
     name: "AudioPlay",
     components: {
-        "AudioPlay":AudioPlay
+        AudioPlay
     }
 }
 </script>
 
 <template>
     <div>
-        <!-- <AudioPlay /> -->
+        <AudioPlay />
     </div>
 </template>

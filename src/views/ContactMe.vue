@@ -4,12 +4,12 @@
         <p class="p-10 font-serif"> Denna sida är gjord som ett projekt i min nuvarande utbildning till Frontend-utvecklare. För kontakt, se nedan: </p>
         <br>
         <br>
-        <ul class="contact">
+        <ul class="flex flex-row content-around">
             <li class="p-10"> <span class="location"> <i class="fa-solid fa-location-dot"></i></span> Stockholm</li>
             <li class="p-10"> <a href="https://github.com/arnetzlinder"><span class="github"> <i class="fa-brands fa-github"></i></span> </a></li>
             <li class="p-10"> <a href="https://www.linkedin.com/in/susanne-arnetz-linder-999a2481/"><span class="linkedIn"> <i class="fa-brands fa-linkedin"></i></span> </a></li>
     </ul>
-</div>
+</div> 
 </template>
 
 <script lang="ts">

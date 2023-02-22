@@ -1,6 +1,5 @@
 <script setup lang="ts">
 import SongNavbar from './components/SongNavbar.vue';
-import AudioPlay from './components/AudioPlay.vue'
 </script>
 
 <template>
@@ -16,8 +15,6 @@ import AudioPlay from './components/AudioPlay.vue'
 
   <div class="pt-20 pb-10 relative">
   
-  <RouterLink to="./">Home</RouterLink>
-  <RouterLink to="./about">About</RouterLink>
   <router-view></router-view>
 </div>
 </template>

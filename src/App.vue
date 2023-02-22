@@ -13,7 +13,7 @@ import SongNavbar from './components/SongNavbar.vue';
     
   </div>
 
-  <div class="pt-20 pb-10 relative">
+  <div  id="background" class="h-screen pt-20 pb-10 relative bg-cover">
   
 
   <router-view></router-view>
@@ -21,5 +21,7 @@ import SongNavbar from './components/SongNavbar.vue';
 </template>
 
 <style scoped>
-
+ #background {
+  background-image: url(./assets/church-background.jpg);
+ }
 </style>

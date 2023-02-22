@@ -9,5 +9,7 @@ export default {
 </script>
 
 <template>
-    <div>Home</div>
+    <div>
+        <!-- <AudioPlay /> -->
+    </div>
 </template>

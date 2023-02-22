@@ -5,10 +5,10 @@ export default{};
 </script>
 
 <template>
-    <div class="text-gray-800 p-20 h-screen flex relative">
+    <div class="text-gray-800 p-20 flex relative">
 
 
-        <div class="flex  flex-col text-gray-800 content-evenly border-8 border-gray-800 rounded-xl">
+        <div class="bg-gradient-to-r from-blue-400 via-yellow-100 to-green-200 flex  flex-col text-gray-800 content-evenly border-8 border-gray-800 rounded-xl">
             <label class="text-gray-800 md:hover:scale-125 lg:hover:scale-125 p-10">
             <audio controls>
                 <source src="/Hallelujah.mp3" type="audio/mpeg">

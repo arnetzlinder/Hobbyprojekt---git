@@ -1,14 +1,20 @@
 <script lang="ts">
 import AudioPlay from "../components/AudioPlay.vue"
+import PictureElement from "../components/PictureElement.vue";
+import VideoPlay from "../components/VideoPlay.vue"
 export default {
     components: {
-        AudioPlay
+        AudioPlay,
+        PictureElement,
+        VideoPlay
     }
 }
 </script>
 
 <template>
-    <div>
+    <div class="flex flex-row">
         <AudioPlay />
+        <PictureElement />
+        <VideoPlay />
     </div>
 </template>

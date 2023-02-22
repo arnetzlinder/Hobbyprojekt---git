@@ -7,9 +7,16 @@ import AboutMe from './components/AboutMe.vue';
   <div>
     <AboutMe />
   </div>
+
+  <div  id="background" class="h-screen pt-20 pb-10 relative bg-cover">
+  
+
+  <router-view></router-view>
+</div>
 </template>
 
 <style scoped>
-
-
+ #background {
+  background-image: url(./assets/church-background.jpg);
+ }
 </style>

@@ -1,5 +1,5 @@
 <template>
-    <div class="text-2xl h-screen bg-gradient-to-r from-green-200 via-yellow-100 to-blue-400">
+    <div class="rounded-3xl mt-20 text-2xl max-h-96 max-w-md font-serif absolute justify-center content-center flex flex-col bg-gradient-to-r from-green-200 via-yellow-100 to-blue-400">
         <h1 class="uppercase text-3xl p-10"> Kontakta mig</h1>
         <p class="p-10 font-serif"> Denna sida är gjord som ett projekt i min nuvarande utbildning till Frontend-utvecklare. För kontakt, se nedan: </p>
         <br>

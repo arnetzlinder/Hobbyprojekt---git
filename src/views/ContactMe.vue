@@ -1,11 +1,15 @@
 <template>
-    <h1> Kontakta mig</h1>
-    <p> Denna sida är gjord som ett projekt i min nuvarande utbildning till Frontend-utvecklare. Du hittar mig på: </p>
-    <ul class="contact">
-        <li> <span class="location"> <i class="fa-solid fa-location-dot"></i></span> Stockholm</li>
-        <li> <a href="https://github.com/arnetzlinder"><span class="github"> <i class="fa-brands fa-github"></i></span> </a></li>
-        <li> <a href="https://www.linkedin.com/in/susanne-arnetz-linder-999a2481/"><span class="linkedIn"> <i class="fa-brands fa-linkedin"></i></span> </a></li>
+    <div class="text-2xl h-screen bg-gradient-to-r from-green-200 via-yellow-100 to-blue-400">
+        <h1 class="uppercase text-3xl p-10"> Kontakta mig</h1>
+        <p class="p-10 font-serif"> Denna sida är gjord som ett projekt i min nuvarande utbildning till Frontend-utvecklare. För kontakt, se nedan: </p>
+        <br>
+        <br>
+        <ul class="contact">
+            <li class="p-10"> <span class="location"> <i class="fa-solid fa-location-dot"></i></span> Stockholm</li>
+            <li class="p-10"> <a href="https://github.com/arnetzlinder"><span class="github"> <i class="fa-brands fa-github"></i></span> </a></li>
+            <li class="p-10"> <a href="https://www.linkedin.com/in/susanne-arnetz-linder-999a2481/"><span class="linkedIn"> <i class="fa-brands fa-linkedin"></i></span> </a></li>
     </ul>
+</div>
 </template>
 
 <script lang="ts">

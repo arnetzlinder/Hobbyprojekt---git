@@ -9,6 +9,6 @@ export default {
 
 <template>
     <div>
-        <!-- <AudioPlay /> -->
+        <AudioPlay />
     </div>
 </template>

@@ -9,7 +9,13 @@ import SongNavbar from './components/SongNavbar.vue';
 
   <div class="pt-20 z-20 relative">
   
+  </div>
+  <div>
+    
+  </div>
 
+  <div class="pt-20 pb-10 relative">
+  
   <router-view></router-view>
 </div>
 </template>

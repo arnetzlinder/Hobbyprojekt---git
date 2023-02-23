@@ -1,4 +1,4 @@
-<script lang="ts">
+<!-- <script lang="ts">
     import { gsap } from "gsap";
     import MusicAnimation from "./MusicAnimation.vue";
     export default {
@@ -13,4 +13,4 @@
             
         }
     }
-</script>
+</script> -->

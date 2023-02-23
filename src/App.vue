@@ -13,7 +13,7 @@ import SongNavbar from './components/SongNavbar.vue';
     
   </div>
 
-  <div  id="background" class="bg-fill h-screen pt-10 relative">
+  <div  id="background" class="bg-cover bg-repeat-y md:h-screen lg:h-screen bg-fixed pt-10 relative">
   
 
   <router-view></router-view>

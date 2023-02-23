@@ -18,21 +18,21 @@ export default{};
             <br>
             <label class="text-gray-800 md:hover:scale-125 lg:hover:scale-90 pt-10 pb-10 mx-3">
             <audio controls>
-                <source src="/Blott en dag.mp3" type="audio/mpeg">
+                <source src="/Blott_en_dag.mp3" type="audio/mpeg">
             </audio>
             <p class="ml-10">Blott en dag</p>
             </label>
             <br>
             <label class="text-gray-800 md:hover:scale-125 lg:hover:scale-90 pt-10 pb-10 mx-3">
             <audio controls>
-                <source src="/För kärlekens skull.mp3" type="audio/mpeg">
+                <source src="/För_kärlekens_skull.mp3" type="audio/mpeg">
             </audio>
             <p class="ml-10">För kärlekens skull</p>
             </label>
             <br>
             <label class="text-gray-800 md:hover:scale-125 lg:hover:scale-90 pt-10 pb-10 mx-3">
             <audio controls>
-                <source src="/Prins Noel.mp3" type="audio/mpeg">
+                <source src="/Prins_Noel.mp3" type="audio/mpeg">
             </audio>
             <p class="ml-10">Prins Noel</p>
             </label>

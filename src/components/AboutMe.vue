@@ -1,7 +1,7 @@
 <template>
     <div class="font-serif h-screen bg-gradient-to-r from-green-200 via-yellow-100 to-blue-400">
-    <div class="p-10 text-2xl">
-        <h1 class="font-bold text-3xl pb-5"> Om mig</h1>
+    <div class="p-10 text-xl">
+        <h1 class="font-bold text-2xl pb-5"> Om mig</h1>
         <p class="max-w-2xl">Jag är en sångerska med gedigen erfarenhet av att sjunga, jag har sjungit i kör sedan fyra års ålder, gått i musikklass och på sång i den kommunala musikskolan. Utöver det har jag även tagit lektioner privat genom åren.</p> 
         <br>
         <p class="max-w-2xl">Numera sjunger jag förstasopran i en vokalensamble som heter Ars Longa även om jag för tillfället har uppehåll då jag har en liten hemma. Yrkesmässigt är jag utbildad distriktssköterska som bestämt mig för att sadla om 

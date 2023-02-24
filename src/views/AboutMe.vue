@@ -1,5 +1,5 @@
 <template>
-    <div class="max-h-96 font-serif sm:top-0 md:top-20 relative justify-center content-center flex">
+    <div class="max-h-96 font-serif md:top-20 relative justify-center content-center flex">
         <div class="absolute p-10 text-xl bg-gradient-to-r from-green-200 via-yellow-100 to-blue-400 content-evenly rounded-xl">
             <h1 class="font-bold text-2xl pb-5"> Om mig</h1>
             <p class="max-w-2xl">Jag har sjungit så länge jag kan minnas, som liten sjöng jag i kyrkans barnkör, därefter fortsatte jag till musikklass och musikgymnasium med inriktning naturvetenskap. Efter gymnasiet hade jag några års uppehåll innan jag fortsatte med körsången igen. Numera sjunger jag förstasopran i en vokalensamble som heter Ars Longa. Yrkesmässigt är jag utbildad distriktssköterska som bestämt mig för att sadla om 

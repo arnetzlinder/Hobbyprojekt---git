@@ -1,6 +1,6 @@
 <template>
-    <div id="burger" :class="{ active: isOpen }" @click="onToggle" :inheritAttrs="false">
-      <button type="button" class="burger-button" title="Menu">
+    <div class="z-30 relative" id="burger" :class="{ active: isOpen }" @click="onToggle" :inheritAttrs="false">
+      <button type="button" id="burger-button" class="z-30" title="Menu">
         <span class="burger-bar burger-bar--1"></span>
         <span class="burger-bar burger-bar--2"></span>
         <span class="burger-bar burger-bar--3"></span>
@@ -30,7 +30,7 @@
     }
   }
 
-  .burger-button {
+  #burger-button {
     position: relative;
     height: 35px;
     width: 37px;
@@ -64,7 +64,7 @@
     transform-origin: 100% 50%;
     transform: scaleX(0.8);
   }
-  .burger-button:hover .burger-bar--2 {
+  #burger-button:hover .burger-bar--2 {
     transform: scaleX(1);
   }
   .no-touchevents .burger-bar--2:hover {
@@ -86,7 +86,7 @@
     transform: rotate(-45deg);
   }
   @media (width >= 740px) {
-  .burger-button {
+  #burger-button {
     position: relative;
     height: 60px;
     width: 60px;
@@ -116,7 +116,7 @@
 
 }
  @media (width >= 740px) {
-  .burger-button {
+  #burger-button {
     position: relative;
     height: 60px;
     width: 60px;
@@ -146,7 +146,7 @@
 
 }
 @media (width >= 1440px) {
-  .burger-button {
+  #burger-button {
     position: relative;
     height: 70px;
     width: 70px;

@@ -44,7 +44,7 @@
     transition: transform 0.6s cubic-bezier(0.165, 0.84, 0.44, 1);
   }
   .burger-bar {
-    background-color: greenyellow;
+    background-color: rgb(24, 26, 21);
     position: absolute;
     top: 50%;
     right: 6px;
@@ -52,7 +52,7 @@
     height: 2px;
     width: auto;
     margin-top: -1px;
-    border-color: greenyellow;
+    border-color: rgb(24, 26, 21);
     transition: transform 0.6s cubic-bezier(0.165, 0.84, 0.44, 1), opacity 0.3s cubic-bezier(0.165, 0.84, 0.44, 1),
       background-color 0.6s cubic-bezier(0.165, 0.84, 0.44, 1);
   }
@@ -101,7 +101,7 @@
     transition: transform 0.6s cubic-bezier(0.165, 0.84, 0.44, 1);
   }
   .burger-bar {
-    background-color: greenyellow;
+    background-color: rgb(24, 26, 21);
     position: absolute;
     top: 50%;
     right: 6px;
@@ -109,7 +109,7 @@
     height: 2px;
     width: auto;
     margin-top: -1px;
-    border-color: greenyellow;
+    border-color: rgb(24, 26, 21);
     transition: transform 0.6s cubic-bezier(0.165, 0.84, 0.44, 1), opacity 0.3s cubic-bezier(0.165, 0.84, 0.44, 1),
       background-color 0.6s cubic-bezier(0.165, 0.84, 0.44, 1);
   }
@@ -131,7 +131,7 @@
     transition: transform 0.6s cubic-bezier(0.165, 0.84, 0.44, 1);
   }
   .burger-bar {
-    background-color: greenyellow;
+    background-color: rgb(24, 26, 21);
     position: absolute;
     top: 50%;
     right: 6px;
@@ -139,7 +139,7 @@
     height: 2px;
     width: auto;
     margin-top: -1px;
-    border-color: greenyellow;
+    border-color: rgb(24, 26, 21);
     transition: transform 0.6s cubic-bezier(0.165, 0.84, 0.44, 1), opacity 0.3s cubic-bezier(0.165, 0.84, 0.44, 1),
       background-color 0.6s cubic-bezier(0.165, 0.84, 0.44, 1);
   }
@@ -161,7 +161,7 @@
     transition: transform 0.6s cubic-bezier(0.165, 0.84, 0.44, 1);
   }
   .burger-bar {
-    background-color: greenyellow;
+    background-color: rgb(24, 26, 21);
     position: absolute;
     top: 50%;
     right: 6px;
@@ -169,7 +169,7 @@
     height: 2px;
     width: auto;
     margin-top: -1px;
-    border-color: greenyellow;
+    border-color: rgb(24, 26, 21);
     transition: transform 0.6s cubic-bezier(0.165, 0.84, 0.44, 1), opacity 0.3s cubic-bezier(0.165, 0.84, 0.44, 1),
       background-color 0.6s cubic-bezier(0.165, 0.84, 0.44, 1);
   }

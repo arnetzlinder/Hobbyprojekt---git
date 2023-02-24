@@ -5,7 +5,7 @@ export default{};
 </script>
 
 <template>
-    <div class="mb-10 top-6 md:top-0 lg:top-0 text-gray-800 p-5 md:p-10 lg:p-20 flex relative max-w-lg md:max-w-xl lg:max-w-xl">
+    <div class="max-h-full top-6 md:top-0 lg:top-0 text-gray-800 p-5 md:p-10 lg:p-20 flex relative max-w-lg md:max-w-xl lg:max-w-2xl">
 
 
         <div class="top-7 md:top-0 lg:top-0 relative bg-gradient-to-r from-blue-400 via-yellow-100 to-green-200 flex  flex-col text-gray-800 content-evenly border-8 border-gray-800 rounded-xl">
@@ -35,6 +35,13 @@ export default{};
                 <source src="/Prins_Noel.mp3" type="audio/mpeg">
             </audio>
             <p class="ml-10">Prins Noel</p>
+            </label>
+            <br>
+            <label class="text-gray-800 md:hover:scale-125 lg:hover:scale-90 pt-10 pb-10 mx-3">
+            <audio controls>
+                <source src="/Fattig_bonddräng.mp3" type="audio/mpeg">
+            </audio>
+            <p class="ml-10">Fattig bonddräng</p>
             </label>
         </div>
 

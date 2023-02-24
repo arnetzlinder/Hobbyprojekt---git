@@ -1,6 +1,6 @@
 <template>
     <div class="max-h-96 font-serif sm:top-0 md:top-20 relative justify-center content-center flex bg-gradient-to-r from-green-200 via-yellow-100 to-blue-400">
-        <div class="md:m-w-screen mt-10 rounded-3xl mt-5 text-2xl max-w-md font-serif absolute bg-gradient-to-r from-green-200 via-yellow-100 to-blue-400">
+        <div class="md:m-w-screen mt-10 rounded-3xl mt-5 text-xl max-w-md font-serif absolute bg-gradient-to-r from-green-200 via-yellow-100 to-blue-400">
         <h2 class="text-3xl p-10 mt-5"> Referenser</h2>
         <p class="px-10 italic"> "En klar, ren stämma som verkligen gjorde begravningen så bra den kunde bli, under de omständigheterna"</p>
         <p class="p-10 italic"> "Sussies sång förgyllde dopet för vår lille son"</p>

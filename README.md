@@ -1,6 +1,6 @@
 # Sussie sjunger
 
-Denna sida gjordes som ett led i uppgiften att göra en sida om vår hobby för att öva på arbetsmetodik. Jag valde att göra en sida om sång och därtill öva på en mängd tekniker, några nya och några som jag arbetat med förut.
+Denna sida gjordes som ett led i uppgiften att göra en sida om vår hobby för att öva på arbetsmetodik. Jag valde att göra en sida om sång och utöver att öva på Github/git öva på en mängd tekniker, några nya och några som jag arbetat med förut.
 
 
 ## Tekniker
